@@ -1,0 +1,2 @@
+MotherOf(x, y) => ChildOf(y, x)
+MotherOf(Mary, Bob)
